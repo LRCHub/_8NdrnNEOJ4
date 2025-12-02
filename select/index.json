@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "シンメトリー",
+  "base_artist": "ReGLOSS",
+  "createdAt": "2025-12-02T05:01:34.535419Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハートプリズム・シンメトリー",
+      "artist": "2wink/葵ひなた&葵ゆうた(CV.斉藤壮馬)",
+      "has_synced": false,
+      "path": "select/01_ハートプリズム・シンメトリー_2wink_葵ひなた&葵ゆうた(CV.斉藤壮馬).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハートプリズム・シンメトリー",
+      "artist": "2wink/葵 ひなた&葵 ゆうた(CV.斉藤壮馬)",
+      "has_synced": false,
+      "path": "select/02_ハートプリズム・シンメトリー_2wink_葵_ひなた&葵_ゆうた(CV.斉藤壮馬).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シンメトリー",
+      "artist": "THE BACK HORN",
+      "has_synced": true,
+      "path": "select/03_シンメトリー_THE_BACK_HORN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シンメトリー",
+      "artist": "Back Horn, The",
+      "has_synced": true,
+      "path": "select/04_シンメトリー_Back_Horn,_The.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シンメトリー",
+      "artist": "ReGLOSS",
+      "has_synced": true,
+      "path": "select/05_シンメトリー_ReGLOSS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シンメトリー",
+      "artist": "Re:nG",
+      "has_synced": false,
+      "path": "select/06_シンメトリー_Re_nG.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シンメトリー",
+      "artist": "ReGLOSS",
+      "has_synced": false,
+      "path": "select/pl_01_シンメトリー_ReGLOSS.txt"
+    }
+  ]
+}
